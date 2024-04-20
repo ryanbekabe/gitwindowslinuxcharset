@@ -8,7 +8,7 @@ git init
 
 git add .
 
-git commit -m "1 commit, 04042024, Modif Permintaan Lab."
+git commit -m "1 commit, 20042024."
 
 git branch -M main
 
