@@ -8,7 +8,7 @@ git init
 
 git add .
 
-git commit -m "1 commit, 20042024."
+git commit -m "1b commit, 20042024."
 
 git branch -M main
 
